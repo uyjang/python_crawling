@@ -1,0 +1,9 @@
+1. select interpretor 에 내가 만든 가상환경 안에 있는 Scripts 안에 있는 python.exe파일을 인터프리터로 설정한다
+2. taks: configure Task 를 클릭 - others - 그 파일을 가상환경이 있는 폴더의 vscode밑에 저장을한다.
+3. 강의 자료에 있는 vscode 설정자료를 복붙에서 tasks.json파일에 붙여넣는다.
+
+*주의사항*
+1. robots.txt를 통해 어디까지 홈페이지가 크롤링을 허용했는 지 확인
+2. 서버(naver / daum 등등)에 과부하를 주지않는다.
+3. 저작권 주의하고 사이트는 항상 변할 수 있다는 것을 인지하고 있는다.
+4. 마우스 우클릭 - copy - csscopy or xpath copy (변동된 사이트에서 해당 태그의 경로를 다시 복사해오는 것)
